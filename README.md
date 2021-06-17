@@ -28,8 +28,8 @@ Also, we need to install some NLTK corpora using following command:
 python -m textblob.download_corpora
 (Corpora is nothing but a large and structured set of texts.)
 
-Authentication:
-In order to fetch tweets through Twitter API, one needs to register an App through their twitter account. Follow these steps for the same:
+### Authentication:
+> In order to fetch tweets through Twitter API, one needs to register an App through their twitter account. Follow these steps for the same:
 
 - Open this link and click the button: ‘Create New App’
 - Fill the application details. You can leave the callback url field empty.
