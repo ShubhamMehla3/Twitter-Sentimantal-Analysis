@@ -67,3 +67,12 @@ else:
        return 'negative'
  ```
 Finally, parsed tweets are returned. Then, we can do various type of statistical analysis on the tweets. For example, in above program, we tried to find the percentage of positive, negative and neutral tweets about a query.
+
+### Here Are Some ScreenShots of our Locally Hosted webapp in flask
+- This is the Home Page.
+>> In the bottum right corner there is a search box<br>
+>> Let's search Elon Musk there.
+![ss1](https://user-images.githubusercontent.com/65397085/122366801-838d4c80-cf79-11eb-8ed4-94e15707939e.jpg)
+>> Sentimental Analysis of Tweets related to Elon musk
+![ss2](https://user-images.githubusercontent.com/65397085/122366816-85efa680-cf79-11eb-81ff-da2e5fe492cf.jpg)
+![ss3](https://user-images.githubusercontent.com/65397085/122366820-86883d00-cf79-11eb-8d5d-79bf96a62bea.jpg)
