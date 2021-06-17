@@ -36,3 +36,9 @@ python -m textblob.download_corpora
 - Once the app is created, you will be redirected to the app page.
 - Open the ‘Keys and Access Tokens’ tab.
 - Copy ‘Consumer Key’, ‘Consumer Secret’, ‘Access token’ and ‘Access Token Secret’.
+
+#### We follow these 3 major steps in our program:
+
+- Authorize twitter API client.
+- Make a GET request to Twitter API to fetch tweets for a particular query.
+- Parse the tweets. Classify each tweet as positive, negative or neutral.
